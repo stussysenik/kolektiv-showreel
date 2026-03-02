@@ -1,25 +1,17 @@
-# kolektiv-final
+<div align="center">
 
-a Vue.js website for a local nonprofit
+# Kolektiv Showreel
 
-## Screenshots:
-![about us](https://user-images.githubusercontent.com/35629779/97453318-e754fd80-1935-11eb-9f70-8525a1aede3e.jpg)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-![custom](https://user-images.githubusercontent.com/35629779/97453343-ecb24800-1935-11eb-8824-d231fb24f0bc.jpg)
+</div>
 
-![custom2](https://user-images.githubusercontent.com/35629779/97453346-ecb24800-1935-11eb-883c-68d45ab18b07.jpg)
+---
 
-![custom3](https://user-images.githubusercontent.com/35629779/97453348-ed4ade80-1935-11eb-8506-c51609a271f9.jpg)
+## Quick Start
 
-![home](https://user-images.githubusercontent.com/35629779/97453350-ede37500-1935-11eb-9f00-97acd2fdaa62.jpg)
-
-![menu](https://user-images.githubusercontent.com/35629779/97453356-ede37500-1935-11eb-924f-d885a9da6990.jpg)
-
-![project](https://user-images.githubusercontent.com/35629779/97453358-ee7c0b80-1935-11eb-9b86-478ab4e25b55.jpg)
-
-![projects](https://user-images.githubusercontent.com/35629779/97453361-efad3880-1935-11eb-8b39-60539f30ce59.jpg)
-
-
-TODO:
-responsiveness of content, refactor code, make footer a component, missing pigalle basketball court
-
+```bash
+git clone https://github.com/stussysenik/kolektiv-showreel.git
+cd kolektiv-showreel
+```
